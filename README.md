@@ -1,6 +1,6 @@
 # Arbitrage Betting Bot
 
-A work-in-progress automated arbitrage betting bot that monitors multiple sports betting platforms (Stake, Polymarkets, and Roobet) to identify profitable betting opportunities.
+A work-in-progress automated arbitrage betting bot that monitors multiple sports betting platforms (Stake, Polymarkets, and Roobet) to identify profitable betting opportunities. (I am just a frontend dev)
 
 ## Project Overview
 
